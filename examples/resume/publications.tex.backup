@@ -1,0 +1,30 @@
+	  %-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Publications}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {GSM based Intelligent Instrumentation} % Role
+    {National Conference on Virtual and Intelligent Instrumentation} % Event
+    {BITS-Pilani} % Location
+    {Nov, 2009} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item { This paper discusses a GSM model to control remotely placed instruments using Short
+    Messaging Service (SMS).}
+      \end{cvitems}		
+    }
+    
+    
+    
+
+   
+%---------------------------------------------------------
+\end{cventries}

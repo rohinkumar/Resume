@@ -1,0 +1,59 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Patents}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Patent no: 2109/DEL/2012} % Title
+    {Complimentary Pointing/Writing/Text Input Hybrid Device for Tablets \& Other Computing Devices} % Role
+    {Indian Utility Patent} % Location
+    {issued Feb, 2013} % Date(s)
+    {
+      %\begin{cvitems} % Description(s)
+       % \item {Drafted daily news for developers in Korea about IT technologies, issues about start-up.}
+      %\end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Patent no: 251584} % Role
+    {Symmetrically Connected Tablet} % Title
+    {Indian Design Patent} % Location
+    {issued Feb, 2013} % Date(s)
+    {
+%       \begin{cvitems} % Description(s)
+%         \item {Drafted reports about IT trends and Security issues on AhnLab Company magazine.}
+%       \end{cvitems}
+    }
+    %---------------------------------------------------------
+  \cventry
+    {Patent no: 251585} % Role
+    {Write and Type Hybrid Cover} % Title
+    {Indian Design Patent} % Location
+    {issued Feb, 2013} % Date(s)
+    {
+%       \begin{cvitems} % Description(s)
+%         \item {Drafted reports about IT trends and Security issues on AhnLab Company magazine.}
+%       \end{cvitems}
+    }
+    
+    %---------------------------------------------------------
+  \cventry
+    {Patent nos: 251684, 251685, 251686}   % Role
+    {3 patents of ``Tablet with multipurpose cover''} % Title
+    {Indian Design Patent} % Location
+    {issued Feb, 2013} % Date(s)
+    {
+%       \begin{cvitems} % Description(s)
+%         \item {Drafted reports about IT trends and Security issues on AhnLab Company magazine.}
+%       \end{cvitems}
+    }
+%---------------------------------------------------------
+\end{cventries}

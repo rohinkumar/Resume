@@ -1,0 +1,39 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+    \cventry
+    {Ph. D. in Cosmology} % Degree
+    {Department of Physics & Astrophysics, University of Delhi} % Institution
+    {Preparing thesis} % Location
+    {Feb, 2012 - PRESENT} % Date(s)
+    {}
+  
+    \cventry
+    {Master of Engineering (M.Eng.), Micro Electronics} % Degree
+    {BITS-Pilani(Birla Institute of Technology and Science)} % Institution
+    {Dropped out} % Location
+    {Aug, 2009 - Feb, 2010} % Date(s)
+    {}
+    \cventry
+    {Master of Sciences (M. Sc (Hons.) Physics) with Bachelor of Engineering (B. E (Hons.) Electrical and Electronics Engineering} % Degree
+    {BITS-Pilani(Birla Institute of Technology and Science)} % Institution
+    {CGPA - 8.65/10} % Location
+    {Aug, 2004 - July, 2009} % Date(s)
+    {
+      \begin{cvitems} % Description(s) bullet points
+        \item {Exhibited excellent merit in M.Sc Physics courses by securing all “A” grades with topping most of the courses.}
+	\item{Received BITS Merit-cum-need Scholarship (50\% of course fee) for maintaining good CGPA in academics}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}

@@ -1,0 +1,65 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Extracurricular Activities}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+  \cventry
+    {Panel member on TV Debates} % Affiliation/role
+    {NDTV} % Organization/group
+    {Delhi} % Location
+    {2013 - 2014} % Date(s)
+    {
+       \begin{cvitems} % Description(s) of experience/contributions/knowledge
+         \item {Participated in debates on education representing BITS-Pilani at the request of their PR team}
+%         \item {Gained expertise in business strategy areas and inisght for various industry from weekly industry analysis session.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+  \cventry
+    {Secretary} % Affiliation/role
+    {Astronomy Club} % Organization/group
+    {BITS-Pilani} % Location
+    {2006 - 2008} % Date(s)
+    {
+       \begin{cvitems} % Description(s) of experience/contributions/knowledge
+         \item {Conducted Sky-watch sessions, pursued Amatuer Astronomy and Telescope making workshops}
+%         \item {Gained expertise in business strategy areas and inisght for various industry from weekly industry analysis session.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Organizing Committee Member} % Affiliation/role
+    {SPIC-MACAY} % Organization/group
+    {BITS-Pilani} % Location
+    {2004 - 2006} % Date(s)
+    {
+       \begin{cvitems} % Description(s) of experience/contributions/knowledge
+         \item {Organized various cultural events as part of society for the promotion of Indian classical music and culture amongst youth}
+%         \item {Participated on several hacking competition and won a good award.}
+%         \item {Conducted periodic security checks on overall IT system as a member of POSTECH CERT.}
+%         \item {Conducted penetration testing commissioned by national agency and corporation.}
+       \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Core Member} % Affiliation/role
+    {Dept. of Trophy Fabrication} % Organization/group
+    {BITS-Pilani} % Location
+    {2004 - 2006} % Date(s)
+    {
+       \begin{cvitems} % Description(s) of experience/contributions/knowledge
+         \item {Actively participated in  designing trophies and mementos for various events at the institute}
+%         \item {Proposed various marketing and network activities to raise awareness.}
+       \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
